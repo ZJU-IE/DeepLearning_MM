@@ -1,0 +1,12 @@
+<project name="Deep Learning" version="docear 1.0" ID="15F232AF0FCDXWLSLPWISQKBQ2WG80T2J66E">
+<folder type="library" name="Library">
+<link type="literature_annotations" name="Literature &amp; Annotations" path="project://15F232AF0FCDXWLSLPWISQKBQ2WG80T2J66E/_data/15F232AF0FCDXWLSLPWISQKBQ2WG80T2J66E/default_files/literature_and_annotations.mm"/>
+<link type="file" name="Temp" path="project://15F232AF0FCDXWLSLPWISQKBQ2WG80T2J66E/_data/15F232AF0FCDXWLSLPWISQKBQ2WG80T2J66E/default_files/temp.mm" system="true"/>
+<link type="file" name="Trash" path="project://15F232AF0FCDXWLSLPWISQKBQ2WG80T2J66E/_data/15F232AF0FCDXWLSLPWISQKBQ2WG80T2J66E/default_files/trash.mm" system="true"/>
+</folder>
+<folder type="physical" name="My drafts" path="project://15F232AF0FCDXWLSLPWISQKBQ2WG80T2J66E/_data/15F232AF0FCDXWLSLPWISQKBQ2WG80T2J66E/My%20Drafts/"/>
+<folder type="literature_repository" name="Literature repository" system="true">
+<folder type="repository_path" name="Deep Learning" path="project://15F232AF0FCDXWLSLPWISQKBQ2WG80T2J66E/../../../sky%20references/Deep%20Learning/"/>
+</folder>
+<link type="references" name="References" path="project://15F232AF0FCDXWLSLPWISQKBQ2WG80T2J66E/../../../sky%20references/Deep%20Learning.bib" system="true"/>
+</project>
